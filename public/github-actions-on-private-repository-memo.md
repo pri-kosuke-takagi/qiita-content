@@ -1,12 +1,10 @@
 ---
 title: 初めてのプライベートリポジトリへの GitHub Actions 導入
 tags:
-  - github action
-  - github actions
-  - github private repository
+  - GitHubActions
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-09-21T17:46:53+09:00'
+id: e465ecc1122dd395c7da
 organization_url_name: null
 slide: false
 ignorePublish: false
